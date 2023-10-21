@@ -1,0 +1,114 @@
+/*ini adalah comment*/
+
+/*reset*/
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: sans-serif;
+    color: black;
+}
+
+img {
+    width: 20%; /*ukuran gambar*/
+   
+}
+
+/*paragraf*/
+p {
+    background-color: rgb(241, 220, 236);
+    color: black;
+    font-family: 'segoe UI';
+    text-align: justify;
+    padding-left: 70px;
+    padding-right: 70px;
+    padding-top: 20px;
+}
+
+ul {
+    padding-left: 64px;
+    color: black;
+    font-family: 'segoe UI';
+}
+
+/*link*/
+a {
+    color: white;
+}
+
+table {
+    padding-left: 10px;
+    width: 20%;
+    border-left: 2px solid rgb(226, 166, 208);
+    margin-left: 12px;
+    font-family: 'Franklin Gothic';
+}
+
+
+.wrapper-content {
+    background: rgb(204, 201, 212);
+    text-align: center;
+    color: black;
+    
+}
+
+/*class*/
+.pback {
+    border-radius: 10px;
+    background-color: rgb(138, 108, 194);
+    color: white;
+    text-align: center;
+    padding-bottom: 2%;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+
+.back {
+    background-image: url(images/7teen.jpg);
+    background-size: cover;
+    padding-top: 2%;
+    padding-bottom: 40%;
+    background-attachment: fixed;
+}
+
+.head {
+    border-radius: 10px;
+    background-color: rgb(95, 96, 155);
+    color: white;
+    text-align: center;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+.head2 {
+    color: white;
+    background: rgb(39, 60, 128);
+    text-align: center;
+}
+
+
+.par {
+    background-color: rgb(142, 119, 241);
+    color: black;
+    padding-top: 0;
+    padding-left: 10px;
+    border-left: 2px solid rgb(95, 96, 155);
+    margin-left: 12px;
+}
+
+.wrapper-list {
+    background-color: rgb(204, 201, 212);
+
+}
+
+.NAMA {
+    background-color: rgb(187, 185, 194);
+    color:black;
+    padding-left: 10px;
+    padding-bottom: 1%;
+    text-align: left;
+    border: 2px solid rgb(95, 96, 155);
+}
